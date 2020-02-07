@@ -10,3 +10,5 @@ No ugly posts allowed.
 I'm not totally sure what we'll end up adding to this repo, but I think having someone log what we do will at least be good practice for using git.
 Projects we come up with can either be developed directly here or included as a submodule.
 We can also share different resources that might be useful for the group.
+
+rando change
